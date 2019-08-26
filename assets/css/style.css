@@ -12,6 +12,7 @@ h2 {
     font-family:  'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5;
     border-bottom: 2px solid #cccccc;
+    text-align: center;
 }
 
 .maincontent {
@@ -100,4 +101,7 @@ h2 {
 @media only screen and (max-width: 640px) {
     .mainwrapper {
         width: 600px;
+        /* .column {
+            width: 100%;
+        } */
 }
