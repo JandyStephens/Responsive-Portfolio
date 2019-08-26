@@ -97,6 +97,7 @@ h2 {
     }
     .nameTab {
         justify-content: right;
+        margin-left:0;
     }
     .links {
         margin: 0 auto;
@@ -109,6 +110,7 @@ h2 {
     }
     .nameTab {
         justify-content: right;
+        margin-left:0;
     }
     .links {
         margin: 0 auto;
